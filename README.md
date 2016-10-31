@@ -3,7 +3,7 @@ WxT Bootstrap
 
 A modern, component based and accessible theme powered by the
 [Bootstrap][bootstrap] base theme and integrated extensively with the
-[WxT][wet_boew] jQuery Framework.
+[WxT jQuery Framework][wet_boew].
 
 This theme will strive to always work with the native Drupal 8 workflow which
 consists of leveraging block layouts and twig templates by default. Over time
@@ -24,7 +24,7 @@ weight of a distribution and its required dependencies.
 at a minimum to function correctly.
 
 You can easily retrieve these dependencies by running `composer install` which
-will simply retrieve the following:
+will simply resolve to the following:
 
 - [Bootstrap][bootstrap] (8.x-3.0+)
 - [WxT Library][wxt_library] (8.x-1.x)
